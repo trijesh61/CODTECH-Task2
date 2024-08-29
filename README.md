@@ -42,3 +42,9 @@ Social: 77.0
 
 Average Grade: 84.67
 GPA: 3.00
+
+
+
+
+
+![Screenshot 2024-08-26 211303](https://github.com/user-attachments/assets/b268d748-6b04-4eb8-abc3-52ca836937f7)
